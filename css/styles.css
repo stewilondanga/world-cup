@@ -113,7 +113,6 @@ ul {
   font-size: 14px;
 }
 
-/*
 li {
   list-style: none;
   display: flex;
@@ -121,6 +120,7 @@ li {
   padding: 8px;
 }
 
+/*
 li:nth-child(even) {
   background-color: #eeeeee;
 }
