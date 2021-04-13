@@ -120,11 +120,11 @@ li {
   padding: 8px;
 }
 
-/*
 li:nth-child(even) {
   background-color: #eeeeee;
 }
 
+/*
 summary {
   background-color: #0f4583;
   color: #ffffff;
